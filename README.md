@@ -1,1 +1,3 @@
-# This is the develop environment of [prn-repo-site](https://github.com/quinlan-l/prn-repo-dev)
+# prn-repo-dev
+
+* This is the develop environment of repository named [prn-repo-site](https://github.com/quinlan-l/prn-repo-site).
